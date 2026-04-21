@@ -690,7 +690,7 @@ RESPUESTA_P7=c
 - [ ] PR del compañero revisado, aprobado y mergeado
 - [x] Commit `wip: experimento roto` y su revert en el historial
 - [ ] Conflicto de `esPar` resuelto en `main`
-- [x] Preguntas P1–P7 respondidas en este archivo
+- [x] Preguntas P1–P7 respondidas en este archivo 
 - [x] Todo pusheado a `main`
 
 ### Verificación local
